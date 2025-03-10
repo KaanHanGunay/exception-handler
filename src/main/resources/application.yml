@@ -1,0 +1,10 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: exception-handler
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: test_user
+    password: test_pass
